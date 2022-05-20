@@ -1,0 +1,5 @@
+Unit Cell,Die,Size (μm),Voltage (V),Abs Current (A),Report
+D1,S2,200,-5,5,True
+D2,S2,200,-5,4,True
+D2,S3,200,-5,6,True
+D2,S4,200,-5,5,True
